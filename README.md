@@ -1,1 +1,3 @@
-# Quarter-2-FA1
+-This is a Formative Assessment 1 Quarter 2 in Computer Science III.
+-The topics covered in this activity are Advanced Hypertext Markup Language (HTML)
+-https://github.com/DenzelDHontanosas/Quarter-2-FA
